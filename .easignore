@@ -1,0 +1,22 @@
+# node_modules
+node_modules
+
+# Git folder
+.git
+
+# Native folders
+android/
+ios/
+
+# Cache files
+.expo
+.expo-shared
+
+# Other
+*.jks
+*.keystore
+
+
+
+
+
