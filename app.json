@@ -2,9 +2,9 @@
   "expo": {
     "name": "ResolveX",
     "slug": "mobile",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
-    "icon": "./assets/images/icon_v2.png",
+    "icon": "./assets/images/icon_v1.png",
     "scheme": "resolvex",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -23,7 +23,7 @@
     "android": {
       "icon": "./assets/images/icon_v2.png",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon_v2.png",
+        "foregroundImage": "./assets/images/adaptive-icon_v1.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.nashwin.resolvex",
